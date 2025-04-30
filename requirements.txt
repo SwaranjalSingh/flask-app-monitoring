@@ -1,0 +1,4 @@
+Flask==2.2.3
+psutil==5.8.0
+plotly==5.5.0
+tenacity==8.0.1
